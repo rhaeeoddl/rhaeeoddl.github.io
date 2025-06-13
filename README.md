@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
-    <head>
-        <mata charset="utf-8">
-            <title>Hello. Wellcom My World!</title>
-        </mata>
-    </head>
     <body>
-        i e ni i ki ta i
+        <h1>i e ni i ki ta i</h1>
     </body>
 </html>
